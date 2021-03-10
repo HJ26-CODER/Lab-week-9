@@ -1,0 +1,15 @@
+* {
+    background-color: #eb6f92;
+}
+
+@media (max-width: 800px) {
+    * {
+        background-color:#907aa9;
+    }
+}
+
+@media (max-width: 500px) {
+    * {
+        background-color: #ea9d34;
+    }
+} 
